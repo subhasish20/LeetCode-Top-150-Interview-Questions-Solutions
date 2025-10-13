@@ -76,7 +76,7 @@ Contributions are welcome! 🙌 If you have a better solution or a new question 
 If you have any questions or suggestions, feel free to reach out to me! 💬
 
 * GitHub: [@subhasish20](https://github.com/subhasish20)
-* Email: [subhasishjena8280@example.com](mailto:subhasishjena8280@gmail.com.com) 📧
+* Email: [subhasishjena8280@gmail.com](mailto:subhasishjena8280@gmail.com.com) 📧
 
 ---
 
