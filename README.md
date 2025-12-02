@@ -1,14 +1,14 @@
 
-# LeetCode-Top-150-Interview-Questions-Solutions 🚀
+# LeetCode-Questions-Solutions 🚀
 
-Welcome to **LeetCode-Top-150-Interview-Questions-Solutions**! 🎉  
+Welcome to **LeetCode-Questions-Solutions**! 🎉  
 This repository contains solutions to the top 150 LeetCode interview questions, designed to help you master coding interviews 💻. Whether you're preparing for your next technical interview or sharpening your problem-solving skills, this repo is for you! ✨
 
 ---
 
 ## 📚 Contents
 
-- **Top 150 LeetCode Interview Questions** 💡  
+- **Top LeetCode Interview Questions** 💡  
 - **Efficient Solutions** 🔑  
 - **Detailed Explanations** 📝  
 - **Data Structures and Algorithms Concepts** 🔍  
@@ -31,7 +31,7 @@ This repository contains solutions to the top 150 LeetCode interview questions, 
 1. **Clone the Repo**:  
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/subhasish20/LeetCode-Top-150-Interview-Questions-Solutions.git
+   git clone https://github.com/subhasish20/LeetCode-Questions-Solutions.git
 2. **Choose a Question**:
    Browse through the questions and select the one you'd like to practice. 📜
 
